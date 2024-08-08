@@ -1,30 +1,34 @@
 {
-    "chainId": 101,
-    "address": "ATekszSGhtGsracpojUNkCDwZQrtbE6XysiKDGkga1P",
-    "symbol": "TRASH",
-    "name": "TrashPanda",
-    "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/AnonAmosAdmn/TRASH-PANDA/main/logo.png",
-    "tags": [
-        "social-token",
-        "utility-token",
-        "community-token",
-        "payment-token",
-        "exchange-token",
-        "slp-token",
-        "meme-coin",
-        "TrashPanda",
-        "TRASH"
-    ],
-    "extensions": {
-        "Twitter": "https://x.com/TrashPandaMeme",
-        "Official Links": "https://github.com/AnonAmosAdmn/TRASH-PANDA/official-links.txt",
-        "TRASH Token": "https://explorer.solana.com/address/ATekszSGhtGsracpojUNkCDwZQrtbE6XysiKDGkga1P",
-        "Audit Report": "https://github.com/AnonAmosAdmn/TRASH-PANDA/audit.txt",
-        "Update Authority": "Revoked",
-        "Mint Authority": "Revoked",
-        "Freeze Authority": "Revoked",
-        "LP Token": "Burned"
+  "name": "TrashPanda",
+  "symbol": "TRASH",
+  "description": "One wallet's TRASH is another wallet's treasure.",
+  "image": "https://raw.githubusercontent.com/AnonAmosAdmn/TRASH-PANDA/main/logo.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Meme Coin"
     },
-    "totalSupply": "1000000000"
+    {
+      "trait_type": "Utility",
+      "value": "Social Token"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/AnonAmosAdmn/TRASH-PANDA/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "external_url": "https://github.com/AnonAmosAdmn/TRASH-PANDA",
+  "extensions": {
+    "Twitter": "https://x.com/TrashPandaMeme",
+    "Audit Report": "https://github.com/AnonAmosAdmn/TRASH-PANDA/audit.txt",
+    "Update Authority": "Revoked",
+    "Mint Authority": "Revoked",
+    "Freeze Authority": "Revoked",
+    "LP Token": "Burned"
+  }
 }
