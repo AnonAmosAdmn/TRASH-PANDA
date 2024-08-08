@@ -1,0 +1,30 @@
+{
+    "chainId": 101,
+    "address": "ATekszSGhtGsracpojUNkCDwZQrtbE6XysiKDGkga1P",
+    "symbol": "TRASH",
+    "name": "TrashPanda",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/AnonAmosAdmn/TRASH-PANDA/main/logo.png",
+    "tags": [
+        "social-token",
+        "utility-token",
+        "community-token",
+        "payment-token",
+        "exchange-token",
+        "slp-token",
+        "meme-coin",
+        "TrashPanda",
+        "TRASH"
+    ],
+    "extensions": {
+        "Twitter": "https://x.com/TrashPandaMeme",
+        "Official Links": "https://github.com/AnonAmosAdmn/TRASH-PANDA/official-links.txt",
+        "TRASH Token": "https://explorer.solana.com/address/ATekszSGhtGsracpojUNkCDwZQrtbE6XysiKDGkga1P",
+        "Audit Report": "https://github.com/AnonAmosAdmn/TRASH-PANDA/audit.txt",
+        "Update Authority": "Revoked",
+        "Mint Authority": "Revoked",
+        "Freeze Authority": "Revoked",
+        "LP Token": "Burned"
+    },
+    "totalSupply": "1000000000"
+}
