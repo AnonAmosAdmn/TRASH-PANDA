@@ -22,15 +22,5 @@
     ],
     "category": "image"
   },
-  "external_url": "https://github.com/AnonAmosAdmn/TRASH-PANDA",
-  "extensions": {
-    "Twitter": "https://x.com/TrashPandaMeme",
-    "Official Links": "https://github.com/AnonAmosAdmn/TRASH-PANDA/official-links.txt",
-    "TRASH Token": "https://explorer.solana.com/address/ATekszSGhtGsracpojUNkCDwZQrtbE6XysiKDGkga1P",
-    "Audit Report": "https://github.com/AnonAmosAdmn/TRASH-PANDA/audit.txt",
-    "Update Authority": "Revoked",
-    "Mint Authority": "Revoked",
-    "Freeze Authority": "Revoked",
-    "LP Token": "Burned"
-  }
+  "external_url": "https://github.com/AnonAmosAdmn/TRASH-PANDA"
 }
