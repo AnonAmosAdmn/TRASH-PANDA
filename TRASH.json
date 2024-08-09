@@ -3,14 +3,12 @@
   "symbol": "TRASH",
   "description": "One wallet's TRASH is another wallet's treasure.",
   "image": "https://raw.githubusercontent.com/AnonAmosAdmn/TRASH-PANDA/main/logo.png",
+  "seller_fee_basis_points": 0,
+  "external_url": "https://github.com/AnonAmosAdmn/TRASH-PANDA",
   "attributes": [
     {
-      "trait_type": "Type",
-      "value": "Meme Coin"
-    },
-    {
-      "trait_type": "Utility",
-      "value": "Social Token"
+      "trait_type": "Category",
+      "value": "meme coin"
     }
   ],
   "properties": {
@@ -22,7 +20,11 @@
     ],
     "category": "image"
   },
-  "external_url": "https://github.com/AnonAmosAdmn/TRASH-PANDA",
-  "seller_fee_basis_points": 0,
-  "creators": null
+    "creators": [
+      {
+        "address": "HwtwSDcUyLchnhKqfjoPkgieX3BDzAj52jc4o8TmRx4N",
+        "share": 100
+      }
+    ]
+  }
 }
