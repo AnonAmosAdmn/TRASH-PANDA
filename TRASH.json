@@ -20,11 +20,10 @@
     ],
     "category": "image"
   },
-    "creators": [
-      {
-        "address": "HwtwSDcUyLchnhKqfjoPkgieX3BDzAj52jc4o8TmRx4N",
-        "share": 100
-      }
-    ]
-  }
+  "creators": [
+    {
+      "address": "HwtwSDcUyLchnhKqfjoPkgieX3BDzAj52jc4o8TmRx4N",
+      "share": 100
+    }
+  ]
 }
